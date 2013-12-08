@@ -183,6 +183,10 @@ BUGS
     Please report to https://github.com/hash-bang/Lightshow if found.
 
 AUTHOR
+    This version:
+    Mark Schmidt <me@marksc.com>
+
+    Original version:
     Matt Carter <m@ttcarter.com>
 
 ```
